@@ -10,7 +10,7 @@ Installation
 Use [Cocoapods](http://cocoapods.org)!
 
 ~~~ruby
-pod 'AAVGrid', :podspec => "https://raw.github.com/adamaveray/AAVGridCell/master/AAVGridCell.podspec"
+pod 'AAVGrid', :podspec => "https://raw.github.com/adamaveray/AAVGrid/master/AAVGrid.podspec"
 ~~~
 
 
